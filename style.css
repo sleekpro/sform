@@ -3,16 +3,13 @@
 body{
     background-image:
     linear-gradient(to bottom, rgba(156, 15, 149, 0.822), rgba(45, 97, 209, 0.884)),
-    url('./new.jpeg');
-    max-width: 100%;
+    url('https://pbs.twimg.com/media/E6IVTwFWYAE94S5?format=jpg&name=4096x4096');
+    width: 100%;
     height: auto;
     background-size: cover;
     color: white;
     padding: 20px;
     background-repeat: no-repeat;
-    overflow: hidden;
-    display: block;
-   
 }
 p{
     font-family:'Poppins', sans-serif;
@@ -38,9 +35,8 @@ p{
    align-items: center;
   background-color: rgba(36, 35, 35, 0.719);
   width: 700px;
-  height: 1600px;
+  height: 1500px;
   margin: 0 auto;
-
   
 }
 /* specifically for input types*/
@@ -95,6 +91,6 @@ input.checkmark{
     line-height: 1.4;
 }
 textarea{
-  font-family: 'Poppins',sans-serif;
+ font-family: 'Poppins',san-serif;
   font-size: 18px;
 }
